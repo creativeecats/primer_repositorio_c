@@ -1,5 +1,5 @@
 # Esta es mi primera ves haciendo archivos README
 
-Cambios de prueba
+Este es un README.md mas adorable porque es sobre gatitos:
 
-Commit de prueba
+Este es un gato colorado: ![Colorado](cat.jpg)
